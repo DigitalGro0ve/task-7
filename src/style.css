@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    width: 100%;
+    height: 50vh;
+    background-image: url("https://commschool.ge/wp-content/uploads/2022/09/shotha_-preset.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.proffesion{
+    font-size: 80px;
+    color: white;
+}
+.person{
+    font-size: 40px;
+    color: rgb(16, 180, 117);
+    font-weight: 800;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(16, 180, 117);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mt-2{
+    margin-top: 5px;
+}
